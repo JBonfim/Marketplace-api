@@ -1,0 +1,6 @@
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.API\obj\Debug\netcoreapp3.1\SMarketplace.API.csprojAssemblyReference.cache
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.API\obj\Debug\netcoreapp3.1\SMarketplace.API.AssemblyInfoInputs.cache
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.API\obj\Debug\netcoreapp3.1\SMarketplace.API.AssemblyInfo.cs
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.API\obj\Debug\netcoreapp3.1\SMarketplace.API.csproj.CoreCompileInputs.cache
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.API\obj\Debug\netcoreapp3.1\SMarketplace.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.API\obj\Debug\netcoreapp3.1\SMarketplace.API.MvcApplicationPartsAssemblyInfo.cache

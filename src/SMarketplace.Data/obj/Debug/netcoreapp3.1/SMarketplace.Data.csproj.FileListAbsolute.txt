@@ -1,0 +1,17 @@
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Data.deps.json
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Data.runtimeconfig.json
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Data.runtimeconfig.dev.json
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Data.dll
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Data.pdb
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Core.dll
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Domain.dll
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Domain.pdb
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\bin\Debug\netcoreapp3.1\SMarketplace.Core.pdb
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.csprojAssemblyReference.cache
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.AssemblyInfoInputs.cache
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.AssemblyInfo.cs
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.csproj.CoreCompileInputs.cache
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.csproj.CopyComplete
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.dll
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.pdb
+C:\Jabes\Estudo\Marketplaces\Marketplace-api\src\SMarketplace.Data\obj\Debug\netcoreapp3.1\SMarketplace.Data.genruntimeconfig.cache
