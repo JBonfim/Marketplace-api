@@ -13,6 +13,8 @@
 
  Acessar o Swagger para visualizar os endPoint e testar as chamadas
   https://localhost:44348/swagger/index.html
+  
+[Estrutura para Criar o Banco de dados](https://github.com/JBonfim/Marketplace-api/tree/main/Resources)
 
 
 ## Tecnologias Utilizadas:
@@ -37,3 +39,5 @@
 - CQRS 
 - Unit of Work
 - Repository
+
+ 
