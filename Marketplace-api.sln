@@ -29,7 +29,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMarketplace.Application", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{E23F4981-CC42-4AD6-8C6D-4A7D89425FD4}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Users\jabes.bonfim\Desktop\Create_Database_table.sql = ..\..\..\Users\jabes.bonfim\Desktop\Create_Database_table.sql
+		Create_Database_table.sql = Create_Database_table.sql
 	EndProjectSection
 EndProject
 Global
