@@ -25,7 +25,12 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMarketplace.Core", "src\SM
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{05064DDE-C282-4678-90BA-31A3EA7FE609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMarketplace.Application", "src\SMarketplace.Application\SMarketplace.Application.csproj", "{C05C3AA1-9DFC-4ED3-9A17-F02597B4DA92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SMarketplace.Application", "src\SMarketplace.Application\SMarketplace.Application.csproj", "{C05C3AA1-9DFC-4ED3-9A17-F02597B4DA92}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{E23F4981-CC42-4AD6-8C6D-4A7D89425FD4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Users\jabes.bonfim\Desktop\Create_Database_table.sql = ..\..\..\Users\jabes.bonfim\Desktop\Create_Database_table.sql
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +74,7 @@ Global
 		{7EE5FDDB-744D-44A7-AC22-51679FBA2747} = {B7FFD314-5076-4FB2-A671-B892D0A8AD38}
 		{05064DDE-C282-4678-90BA-31A3EA7FE609} = {F07BA595-7DB2-460A-A124-66B3C13AEE42}
 		{C05C3AA1-9DFC-4ED3-9A17-F02597B4DA92} = {05064DDE-C282-4678-90BA-31A3EA7FE609}
+		{E23F4981-CC42-4AD6-8C6D-4A7D89425FD4} = {F07BA595-7DB2-460A-A124-66B3C13AEE42}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BB4A531C-6ACD-4522-97D4-E5C855644266}

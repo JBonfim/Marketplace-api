@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+src/SMarketplace.API/obj/Debug/netcoreapp3.1/SMarketplace.API.csprojAssemblyReference.cache
+src/SMarketplace.API/obj/Debug/netcoreapp3.1/SMarketplace.API.csprojAssemblyReference.cache
+src/SMarketplace.API/obj/Debug/netcoreapp3.1/SMarketplace.API.csprojAssemblyReference.cache
+src/SMarketplace.Data/obj/Debug/netcoreapp3.1/SMarketplace.Data.csprojAssemblyReference.cache
+src/SMarketplace.Domain/obj/Debug/netcoreapp3.1/SMarketplace.Domain.csprojAssemblyReference.cache
