@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KvTs09+UnEOtE9JGndNgoX1LfXMRYAljPcGGu3R9uzUpPazRloIpxCevunee+iLAqZRSwt5iXPqPdO82UB8ZEA==",
+  "dgSpecHash": "LuIHdjBBedPV26hEXgwYbPtAsqoRKFFSFL7KZALjQx+0nF4sZ7Yi7m4RLhclAdaCDFiPYOC6Gp9qBPdFWsPi4Q==",
   "success": true,
   "projectFilePath": "C:\\Jabes\\Estudo\\Marketplace-api\\src\\SMarketplace.API\\SMarketplace.API.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\jabes.bonfim\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.0.0\\mediatr.extensions.microsoft.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.1.0\\microsoft.aspnetcore.authentication.2.1.0.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.1.0\\microsoft.aspnetcore.authentication.core.2.1.0.nupkg.sha512",
@@ -53,8 +54,11 @@
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.7\\microsoft.extensions.identity.stores.3.1.7.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.logging\\3.1.13\\microsoft.extensions.logging.3.1.13.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.13\\microsoft.extensions.logging.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.logging.configuration\\3.1.7\\microsoft.extensions.logging.configuration.3.1.7.nupkg.sha512",
+    "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.logging.console\\3.1.7\\microsoft.extensions.logging.console.3.1.7.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.objectpool\\2.1.0\\microsoft.extensions.objectpool.2.1.0.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.options\\3.1.13\\microsoft.extensions.options.3.1.13.nupkg.sha512",
+    "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\3.1.7\\microsoft.extensions.options.configurationextensions.3.1.7.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.extensions.webencoders\\2.1.0\\microsoft.extensions.webencoders.2.1.0.nupkg.sha512",
     "C:\\Users\\jabes.bonfim\\.nuget\\packages\\microsoft.identity.client\\3.0.8\\microsoft.identity.client.3.0.8.nupkg.sha512",

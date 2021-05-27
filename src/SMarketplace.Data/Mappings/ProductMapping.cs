@@ -5,7 +5,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SMarketplace.Domain.Mappings
+namespace SMarketplace.Data.Mappings
 {
     public class ProductMapping : IEntityTypeConfiguration<Product>
     {
@@ -18,7 +18,7 @@ namespace SMarketplace.Domain.Mappings
                 .HasColumnType("varchar(500)");
 
             builder.Property(c => c.Image)
-               .HasColumnType("varchar(1000)");
+               .HasColumnType("varchar(500)");
 
 
 

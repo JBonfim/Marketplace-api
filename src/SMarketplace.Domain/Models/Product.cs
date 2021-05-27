@@ -13,6 +13,23 @@ namespace SMarketplace.Domain.Models
         public double Price { get; private set; }
         public string Image { get; private set; }
 
+        public Product()
+        {
 
+        }
+
+        public Product(string name, double price, string image)
+        {
+            Name = name;
+            Price = price;
+            Image = image;
+        }
+
+        public void AlterProd(string name, double price, string image)
+        {
+            Name = name;
+            Price = price;
+            Image = image;
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SMarketplace.Domain.Interfaces;
 using SMarketplace.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -7,10 +8,17 @@ using System.Threading.Tasks;
 
 namespace SMarketplace.API.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/login")]
     public class AuthController : MainController
     {
-        [HttpPost("authentication")]
+        private readonly IIdentityService _identityService;
+
+        public AuthController(IIdentityService identityService)
+        {
+            _identityService = identityService;
+        }
+
+        [HttpPost]
         public async Task<ActionResult> Login(UserLogin usuarioLogin)
         {
             if (!ModelState.IsValid) return CustomResponse(ModelState);
@@ -19,21 +27,13 @@ namespace SMarketplace.API.Controllers
 
             if (ResponsePossuiErros(result.ResponseResult))
             {
-                return CustomResponse(result.ResponseResult);
+                return CustomResponse();
             }
 
 
             if (result.Authenticated)
             {
-
-
-                var response = new
-                {
-                    Token = result.AccessToken,
-                    ExpirationDate = result.ExpiresIn
-                };
-
-                return  CustomResponse(response);
+                return  CustomResponse(result);
             }
 
             return  Unauthorized("Username or Password is incorrect");
