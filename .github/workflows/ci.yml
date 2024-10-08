@@ -16,10 +16,10 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     
-    - name: Install ICU
+    - name: Install dependencies (ICU and libssl)
       run: |
         sudo apt-get update
-        sudo apt-get install -y libicu-dev
+        sudo apt-get install -y libicu-dev libssl1.1
 
     - name: Setup .NET
       uses: actions/setup-dotnet@v4
