@@ -1,0 +1,38 @@
+name: CI do Projeto Marketplace-api
+
+on:
+  push:
+    branches: [ "main", "ci" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  tests:
+    name: Tests
+    # Alterando o ambiente para o Ubuntu 20.04
+    runs-on: ubuntu-20.04
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Install dependencies (ICU and libssl)
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y libicu-dev libssl1.1
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 3.1.x
+
+    - name: Set environment variables
+      run: echo "DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=true" >> $GITHUB_ENV
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --no-restore
+
+    - name: Test
+      run: dotnet test --no-build --verbosity normal
